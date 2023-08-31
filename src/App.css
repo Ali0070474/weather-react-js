@@ -1,0 +1,32 @@
+.weatherBg{
+  background: url("https://wallpapers.com/images/featured/weather-xqhs9axpy8btfd3y.jpg");
+height: 50vh;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.headi{
+  color: white;
+  font-size: 50px;
+  font-style: oblique;
+
+}
+.weatherResultBox{
+  margin: auto;
+  width: 400px;
+  height: 250px;
+}
+.weatherResultBox img{
+  height: 100px;
+  width: 100px;
+  border-radius: 6px;
+}
+.weatherCity{
+  margin-top: 10px;
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size: 50px;
+  font-weight: 400px;
+}
